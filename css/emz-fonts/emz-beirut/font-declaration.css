@@ -1,0 +1,31 @@
+
+/* ---------------------------------------------------------------------------- */
+/* Created by 	:   Ehsan Maleki Zoeram (http://www.EhsanMaleki.com)            */
+/* Create date 	:   Thursday 04 April 2015 (1394/02/10)                         */
+/* ---------------------------------------------------------------------------- */
+/* Thanks to 	:   http://www.awebfont.ir  					*/
+/* ---------------------------------------------------------------------------- */
+
+/* Code : 1158 */
+@font-face {
+	font-family: 'emz-beirut';
+	src: 	url('560b712c01cdf4eb7f15d9180567345060f621291901931.eot') format("embedded-opentype"),
+			url('560b712c01cdf4eb7f15d9180567345060f621291901931.woff') format('woff'),
+			url('560b712c01cdf4eb7f15d9180567345060f621291901931.ttf') format('truetype');
+}
+
+/* Code : 1159 */
+@font-face {
+	font-family: 'emz-beirut-x3';
+	src: 	url('259a5dddcff7f1cbb08d964cc275cb50ce7621291901931.eot') format("embedded-opentype"),
+			url('259a5dddcff7f1cbb08d964cc275cb50ce7621291901931.woff') format('woff'),
+			url('259a5dddcff7f1cbb08d964cc275cb50ce7621291901931.ttf') format('truetype');
+}
+
+/* Code : 1160 */
+@font-face {
+	font-family: 'emz-beirut-md';
+	src: 	url('818b712c01cdf4eb7f15d9180567345060f721291901931.eot') format("embedded-opentype"),
+			url('818b712c01cdf4eb7f15d9180567345060f721291901931.woff') format('woff'),
+			url('818b712c01cdf4eb7f15d9180567345060f721291901931.ttf') format('truetype');
+}

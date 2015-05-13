@@ -1,0 +1,20 @@
+
+/* -------------------------------------------------------------------------------- */
+/* Created by 	:	Ehsan Maleki Zoeram (http://www.EhsanMaleki.com)				*/
+/* Create date 	: 	Thursday 04 April 2015 (1394/02/10) 							*/
+/* -------------------------------------------------------------------------------- */
+
+@font-face {
+	font-family: 'emz-favorite';
+    font-weight: normal;
+    font-style: normal;
+	src: 	url('514d61790t209540c0042496d10480j154276406829nb6w.woff') format('woff'),
+	        url("514d61790t209540c0042496d10480j154276406829nb6w.woff2") format("x-woff2");
+}
+
+@font-face {
+	font-family: 'emz-favorite';
+    font-weight: bold;
+    font-style: normal;
+	src: 	url('59743ez26127602402838l6720k8515897u83l3736598y3.woff') format("woff");
+}
